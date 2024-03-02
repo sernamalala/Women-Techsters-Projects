@@ -1,0 +1,1 @@
+You are expected to create a simple portfolio website using HTML and CSS. You can use the provided screenshot as a guide. You are allowed to use images and content of your choice in the 'My Skills' section.

@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Patrick+Hand+SC&display=swap");
+html {
+  background-color: beige;
+  font-family: "Raleway", sans-serif;
+}
+header {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  background-color: rgba(255, 127, 80, 0.681);
+  height: 250px;
+  margin-bottom: 50px;
+}
+
+h1 {
+  font-size: 60px;
+  font-family: "Patrick Hand SC", cursive;
+  text-align: center;
+}
+
+.web {
+  font-size: 35px;
+  font-family: "Patrick Hand SC", cursive;
+  text-align: center;
+  color: blueviolet;
+}
+
+.icon-image {
+  height: 300px;
+}
+
+.about-me {
+  text-align: center;
+}
+
+.description {
+  line-height: 2;
+  font-size: 20px;
+}
+
+span {
+  color: blueviolet;
+  display: block;
+}
+.skills {
+  margin: 30px 0px 30px 0px;
+  display: flex;
+  flex-direction: column;
+}
+.img {
+  float: left;
+  margin-right: 25px;
+}
+
+.center {
+  justify-content: center;
+}
+.contact {
+  text-align: center;
+}
+.block {
+  max-width: 70%;
+  margin-bottom: 40px;
+}
+
+button {
+  margin: 0 auto;
+  margin-top: 30px;
+  display: block;
+  background-color: coral;
+  padding: 20px;
+  font-size: 22px;
+  border-radius: 30px;
+  color: blueviolet;
+  border: solid 1px blueviolet;
+}
+
+button:hover {
+  background-color: rgba(137, 43, 226, 0.563);
+  border: solid 1px coral;
+  color: coral;
+}
+
+footer {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  margin-top: 60px;
+  max-width: 100%;
+  background-color: rgba(255, 127, 80, 0.681);
+  height: 150px;
+}
